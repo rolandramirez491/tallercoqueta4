@@ -30,5 +30,10 @@ namespace CapaDatos
         {
             return $"{Id}|{Nombre}|{Apellido}|{Edad}|{Cargo}|{Salario}";
         }
+        public Cliente SepararLinea(string linea)
+        {
+            string[] datos = linea.Split('|');
+            return new Cliente(datos[0], datos[1], datos[2], datos[3], datos[4], datos[5]);
+        }
     }
 }
