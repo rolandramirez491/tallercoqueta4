@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capadatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmcalcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcalcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cliente.cs",
+              "RelativeToolTip": "CapaDatos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:35:58.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCalcularSalario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmCalcularSalario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCalcularSalario.cs",
+              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmCalcularSalario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCalcularSalario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:31:00.214Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Cd_Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cd_Cliente.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Cd_Cliente.cs",
               "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cd_Cliente.cs",
               "RelativeToolTip": "CapaDatos\\Cd_Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T04:24:55.336Z",
               "EditorCaption": ""
