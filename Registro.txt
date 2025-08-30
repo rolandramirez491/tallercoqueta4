@@ -1,2 +1,2 @@
-11|a|b|33|estudio|1000000
-12|ab|bb|66|estudio|2000000
+123,a,b,33,estudy,1000000
+111,roland,ramirez,35,picab,2000000

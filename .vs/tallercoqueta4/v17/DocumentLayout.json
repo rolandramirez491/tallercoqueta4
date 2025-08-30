@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\capadatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67DA4EC4-5B6E-4558-89AA-9413F5DCBA31}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67DA4EC4-5B6E-4558-89AA-9413F5DCBA31}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmregistro_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\capapresentacion\\frmregistro_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmregistro_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmregistro_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\capapresentacion\\frmregistro_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmregistro_busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\capadatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmRegistro_Busqueda.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmRegistro_Busqueda.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmRegistro_Busqueda.cs",
@@ -46,24 +46,22 @@
               "RelativeToolTip": "CapaPresentacion\\frmRegistro_Busqueda.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwBoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:37:58.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:37:58.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmRegistro_Busqueda.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmRegistro_Busqueda.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmRegistro_Busqueda.cs",
               "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmRegistro_Busqueda.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmRegistro_Busqueda.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:37:56.996Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-30T04:37:56.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CN_Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaNegocio\\CN_Cliente.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\CN_Cliente.cs",
@@ -76,20 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cliente.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Cliente.cs",
               "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cliente.cs",
               "RelativeToolTip": "CapaDatos\\Cliente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T04:35:58.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cd_Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cd_Cliente.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Cd_Cliente.cs",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "CapaDatos\\Cd_Cliente.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:24:55.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T04:24:55.336Z"
             }
           ]
         }
