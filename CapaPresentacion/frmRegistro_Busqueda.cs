@@ -20,7 +20,9 @@ namespace CapaPresentacion
         }
         //objeto de la capa negocio
         private CN_Cliente objCN = new CN_Cliente();
+        private CN_Cliente2 objCN2 = new CN_Cliente2();
         private List<object> lista = new List<object>();
+        private List<object> lista2 = new List<object>();
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
             
@@ -32,6 +34,11 @@ namespace CapaPresentacion
             string salario= txtSalario.Text;
             //File.AppendAllText("Empleados.txt", txtCod.Text + "," + txtNom.Text + "," + txtApe.Text + "," + txtEdad.Text + "," + txtCargo.Text + "," + txtSalario.Text + Environment.NewLine);
             objCN.RegistrarCliente(id, nombre, apellido, edad, cargo, salario);
+            string salud = "0";
+            string pension = "0";
+            string auxiliotransporte = "0";
+            string salarioneto = "0";
+            objCN2.RegistrarCliente2(id, nombre, apellido, edad, cargo, salario,salud,pension,auxiliotransporte,salarioneto);
             MessageBox.Show("Empleado registrado");
             txtCod.Clear();
             txtNom.Clear();

@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cd_Cliente2.cs" />
     <Compile Include="Cd_Cliente.cs" />
+    <Compile Include="Cliente2.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

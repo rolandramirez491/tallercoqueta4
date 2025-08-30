@@ -306,7 +306,7 @@
             // 
             this.btnCalcular.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalcular.Location = new System.Drawing.Point(375, 383);
+            this.btnCalcular.Location = new System.Drawing.Point(378, 357);
             this.btnCalcular.Margin = new System.Windows.Forms.Padding(2);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(96, 36);
@@ -319,7 +319,7 @@
             // 
             this.btnBuscar.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.btnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBuscar.Location = new System.Drawing.Point(135, 383);
+            this.btnBuscar.Location = new System.Drawing.Point(135, 357);
             this.btnBuscar.Margin = new System.Windows.Forms.Padding(2);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(96, 36);
@@ -332,7 +332,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(664, 450);
+            this.ClientSize = new System.Drawing.Size(664, 495);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.lblPension);

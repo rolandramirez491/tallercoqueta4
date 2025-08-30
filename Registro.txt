@@ -1,2 +1,2 @@
-123,a,b,33,estudy,1000000
-111,roland,ramirez,35,picab,2000000
+1,a,a,33,est,1000000
+2,b,b,66,adm,3000000

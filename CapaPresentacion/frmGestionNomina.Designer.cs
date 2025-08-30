@@ -31,10 +31,10 @@
             this.btnBuscarEmpleado = new System.Windows.Forms.Button();
             this.txtCod = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dgvListado = new System.Windows.Forms.DataGridView();
             this.label14 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListado)).BeginInit();
             this.SuspendLayout();
             // 
             // btnBuscarEmpleado
@@ -71,16 +71,16 @@
             this.label3.TabIndex = 40;
             this.label3.Text = "Código del Empleado:";
             // 
-            // dataGridView1
+            // dgvListado
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(11, 135);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(529, 229);
-            this.dataGridView1.TabIndex = 39;
+            this.dgvListado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvListado.Location = new System.Drawing.Point(11, 135);
+            this.dgvListado.Margin = new System.Windows.Forms.Padding(2);
+            this.dgvListado.Name = "dgvListado";
+            this.dgvListado.RowHeadersWidth = 51;
+            this.dgvListado.RowTemplate.Height = 24;
+            this.dgvListado.Size = new System.Drawing.Size(529, 229);
+            this.dgvListado.TabIndex = 39;
             // 
             // label14
             // 
@@ -110,12 +110,12 @@
             this.Controls.Add(this.btnBuscarEmpleado);
             this.Controls.Add(this.txtCod);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dgvListado);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label1);
             this.Name = "frmGestionNomina";
             this.Text = "frmGestionNomina";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListado)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -126,7 +126,7 @@
         private System.Windows.Forms.Button btnBuscarEmpleado;
         private System.Windows.Forms.TextBox txtCod;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dgvListado;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label1;
     }
