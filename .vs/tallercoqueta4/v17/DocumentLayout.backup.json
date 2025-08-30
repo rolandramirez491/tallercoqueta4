@@ -11,32 +11,8 @@
       "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmgestionnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmcalcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcalcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capapresentacion\\frmcalcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D58C092-5BB3-49DA-ABD2-6ED9AC0D8278}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcalcularsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capadatos\\cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capadatos\\cd_cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D163B310-9EA6-4BDA-AE2F-064288A75218}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67DA4EC4-5B6E-4558-89AA-9413F5DCBA31}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\roland\\documents\\github\\tallercoqueta4\\capanegocio\\cn_cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67DA4EC4-5B6E-4558-89AA-9413F5DCBA31}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,36 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmListar.cs",
-              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmListar.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmListar.cs",
-              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmListar.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmListar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T14:04:40.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmListar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmListar.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmListar.cs",
-              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmListar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\frmListar.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T14:04:39.187Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -85,9 +36,9 @@
               "RelativeDocumentMoniker": "CapaPresentacion\\frmGestionNomina.cs",
               "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmGestionNomina.cs",
               "RelativeToolTip": "CapaPresentacion\\frmGestionNomina.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADgvxQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T14:04:20.819Z",
+              "WhenOpened": "2025-08-30T14:31:22.686Z",
               "EditorCaption": ""
             },
             {
@@ -99,71 +50,19 @@
               "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmGestionNomina.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmGestionNomina.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T14:04:18.96Z",
+              "WhenOpened": "2025-08-30T14:31:20.733Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cliente2.cs",
-              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cliente2.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\Cliente2.cs",
-              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cliente2.cs",
-              "RelativeToolTip": "CapaDatos\\Cliente2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:59:36.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cd_Cliente2.cs",
-              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cd_Cliente2.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\Cd_Cliente2.cs",
-              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaDatos\\Cd_Cliente2.cs",
-              "RelativeToolTip": "CapaDatos\\Cd_Cliente2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:59:35.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CN_Cliente2.cs",
-              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaNegocio\\CN_Cliente2.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\CN_Cliente2.cs",
-              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaNegocio\\CN_Cliente2.cs",
-              "RelativeToolTip": "CapaNegocio\\CN_Cliente2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:59:33.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmCalcularSalario.cs",
-              "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmCalcularSalario.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmCalcularSalario.cs",
-              "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmCalcularSalario.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmCalcularSalario.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowDgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:59:29.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "frmCalcularSalario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmCalcularSalario.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmCalcularSalario.cs",
               "ToolTip": "C:\\Users\\Roland\\Documents\\GitHub\\tallercoqueta4\\CapaPresentacion\\frmCalcularSalario.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\frmCalcularSalario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T13:59:26.759Z",
+              "WhenOpened": "2025-08-30T14:31:19.436Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
