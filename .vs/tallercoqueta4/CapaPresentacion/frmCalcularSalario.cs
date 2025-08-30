@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaNegocio;
 namespace CapaPresentacion
 {
     public partial class frmCalcularSalario : Form
@@ -20,6 +21,7 @@ namespace CapaPresentacion
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
+            
             //string finder = File.ReadAllText("Empleados.txt");
             //foreach (var linea in System.IO.File.ReadLines("Empleados.txt"))
             //{

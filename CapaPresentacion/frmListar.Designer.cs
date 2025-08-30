@@ -46,6 +46,7 @@
             this.btnListar.TabIndex = 34;
             this.btnListar.Text = "LISTAR";
             this.btnListar.UseVisualStyleBackColor = false;
+            this.btnListar.Click += new System.EventHandler(this.btnListar_Click);
             // 
             // label14
             // 
